@@ -17,6 +17,7 @@ Power Query (within Power BI) – for data cleaning and transformation
 DAX (Data Analysis Expressions) – for calculated measures such as:
 Attrition Count
 Attrition Rate
+Average Monthly Income
 Age Group
 Female Count
 Male Count
